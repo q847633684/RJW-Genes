@@ -11,7 +11,7 @@
 		<li>Common</li>
 		<!-- Mods -->
 		<li IfModActive="LustLicentia.RJWLabs">1.5/Mods/LicentiaLabs</li>
-		<li IfModActive="vegapnk.cumpilation">1.5/Mods/Cumpilation</li>
+		<li IfModActive="vegapnk.cumpilation" IfModNotActive="TianTian.MilkCum">1.5/Mods/Cumpilation</li>
 		<!-- <li IfModNotActive="asmr.rjw.racesupport">1.5/Mods/NotRaceSupport</li> -->
 		<li IfModActive="vanillaracesexpanded.sanguophage">1.5/Mods/Sanguophage</li>
 		<li IfModActive="vanillaracesexpanded.saurid">1.5/Mods/Saurid</li>
@@ -29,8 +29,10 @@
 		<li>1.6</li>
 		<li>Common</li>
 		<!-- Mods -->
-		
-		<li IfModActive="vegapnk.cumpilation">1.6/Mods/Cumpilation</li>
+		<!-- 仅当启用原版 Cumpilation 且未启用精液和母乳 时加载（含 CumpilationPatcher.dll） -->
+		<li IfModActive="vegapnk.cumpilation" IfModNotActive="TianTian.MilkCum">1.6/Mods/Cumpilation</li>
+		<!-- 精液和母乳 (TianTian.MilkCum)：仅 Defs+Patches，不加载 CumpilationPatcher.dll -->
+		<li IfModActive="TianTian.MilkCum">1.6/Mods/CumpilationMilkCum</li>
 		<li IfModActive="vanillaracesexpanded.sanguophage">1.6/Mods/Sanguophage</li>
 		<li IfModActive="vanillaracesexpanded.saurid">1.6/Mods/Saurid</li>
 		<li IfModActive="vanillaracesexpanded.phytokin">1.6/Mods/Phytokin</li>
