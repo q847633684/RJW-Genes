@@ -7,11 +7,11 @@
   <!--EN: Genetic STDS-->
   <rjw_genes_genetic_disease_header_key>遗传性病</rjw_genes_genetic_disease_header_key>
   <!--EN: If checked, genetic STDs are only spread on penetrative sex. Otherwise, any sextype is considered for spread.-->
-  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>如果勾选，遗传性病仅在插入式性行为中传播。否则，任何性行为类型都会传播。</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>
+  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>如果勾选，遗传性病只会在插入式性行为中传播；否则，任何性行为类型都可能传播。</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>
   <!--EN: Genetic STDs on penetrative-sex only-->
   <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>仅限插入式性行为传播遗传性病</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>
   <!--EN: If on, only animals that 'can rape' will be engaging in bestiality after being hit by a animal mating pulse. This usually means that only male animals will start breeding.-->
-  <rjw_genes_settings_animal_mating_needs_penis_explanation>如果开启，只有“能够强奸”的动物在被动物交配脉冲影响后才会进行兽交。这通常意味着只有雄性动物会开始交配。</rjw_genes_settings_animal_mating_needs_penis_explanation>
+  <rjw_genes_settings_animal_mating_needs_penis_explanation>如果开启，只有“能够强奸”的动物在被动物交配脉冲影响后才会进行兽交，这通常意味着只有雄性动物会开始交配。</rjw_genes_settings_animal_mating_needs_penis_explanation>
   <!--EN: Animal-Mating GenitalCheck-->
   <rjw_genes_settings_animal_mating_needs_penis_key>动物交配生殖器检查</rjw_genes_settings_animal_mating_needs_penis_key>
   <!--EN: Adds detailed information to the log about interactions and genes.-->
@@ -41,7 +41,7 @@
   <!--EN: Regret Stealing Love-->
   <rjw_genes_settings_regret_stealing_love_key>魅惑后悔</rjw_genes_settings_regret_stealing_love_key>
   <!--EN: Multiple sexdemons can spawn during a event-->
-  <rjw_genes_settings_sexdemon_group_spawn_explanation>一个事件中可以生成多个性魔</rjw_genes_settings_sexdemon_group_spawn_explanation>
+  <rjw_genes_settings_sexdemon_group_spawn_explanation>同一次事件中可以生成多个性魔。</rjw_genes_settings_sexdemon_group_spawn_explanation>
   <!--EN: Sexdemon groups-->
   <rjw_genes_settings_sexdemon_group_spawn_key>性魔群体</rjw_genes_settings_sexdemon_group_spawn_key>
   <!--EN: Allow Incubi to spawn through this event-->

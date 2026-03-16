@@ -72,8 +72,8 @@
   <rjw_genes_drainer.description>该基因携带者能够通过汲取伴侣的活力来吸收大量致育素。这是通过与未被汲取过且不具有此基因的角色发生性行为被动完成的。</rjw_genes_drainer.description>
   <!--EN: vitality drainer-->
   <rjw_genes_drainer.label>活力汲取者</rjw_genes_drainer.label>
-  <!--EN: This Xenotype does not suffer any injury from being stretched by large penetrations or large volumes of fluid.-->
-  <rjw_genes_elasticity.description>该外来种不会因大型插入物或大量液体而受到拉伸伤害。</rjw_genes_elasticity.description>
+<!--EN: This Xenotype does not suffer any injury from being stretched by large penetrations or large volumes of fluid.-->
+<rjw_genes_elasticity.description>该外来种不会因巨大插入物或大量体液灌注而受到撕裂或拉伸伤害。</rjw_genes_elasticity.description>
   <!--EN: elasticity-->
   <rjw_genes_elasticity.label>弹性</rjw_genes_elasticity.label>
   <!--EN: Carriers of this gene produce an electrical charge in nearby electronics during orgasm. This charge is substantial enough to charge batteries.-->
@@ -144,10 +144,10 @@
   <rjw_genes_fluid_cum_breasts.description>该基因携带者的乳房产生精液而非乳汁。</rjw_genes_fluid_cum_breasts.description>
   <!--EN: cum milk-->
   <rjw_genes_fluid_cum_breasts.label>精乳</rjw_genes_fluid_cum_breasts.label>
-  <!--EN: Carriers of this gene produce insect spunk instead of cum.-->
-  <rjw_genes_fluid_insect_spunk.description>该基因携带者产生虫族精液而非人类精液。</rjw_genes_fluid_insect_spunk.description>
-  <!--EN: insect spunk-->
-  <rjw_genes_fluid_insect_spunk.label>虫族精液</rjw_genes_fluid_insect_spunk.label>
+<!--EN: Carriers of this gene produce insect spunk instead of cum.-->
+<rjw_genes_fluid_insect_spunk.description>该基因携带者产生虫族精液，而非人类精液。</rjw_genes_fluid_insect_spunk.description>
+<!--EN: insect spunk-->
+<rjw_genes_fluid_insect_spunk.label>虫族精液</rjw_genes_fluid_insect_spunk.label>
   <!--EN: Carriers of this gene produce milk from their penis instead of cum.-->
   <rjw_genes_fluid_milk_penis.description>该基因携带者的阴茎产生乳汁而非精液。</rjw_genes_fluid_milk_penis.description>
   <!--EN: milk cum-->
@@ -208,14 +208,14 @@
   <rjw_genes_infectious_increased_sex_need.description>该遗传病携带者需要更多性爱。</rjw_genes_infectious_increased_sex_need.description>
   <!--EN: infectious increased sexneed-->
   <rjw_genes_infectious_increased_sex_need.label>传染性性需求增加</rjw_genes_infectious_increased_sex_need.label>
-  <!--EN: Carriers of this genetic disease have lower fertility.-->
-  <rjw_genes_infectious_low_fertility.description>该遗传病携带者生育能力较低。</rjw_genes_infectious_low_fertility.description>
-  <!--EN: infectious low fertility vulnerability-->
-  <rjw_genes_infectious_low_fertility.label>传染性低生育力易感性</rjw_genes_infectious_low_fertility.label>
-  <!--EN: Carriers of this genetic disease need a lot more sex.-->
-  <rjw_genes_infectious_major_increased_sex_need.description>该遗传病携带者需要大量更多性爱。</rjw_genes_infectious_major_increased_sex_need.description>
-  <!--EN: major infectious increased sexneed-->
-  <rjw_genes_infectious_major_increased_sex_need.label>主要传染性性需求大幅增加</rjw_genes_infectious_major_increased_sex_need.label>
+<!--EN: Carriers of this genetic disease have lower fertility.-->
+<rjw_genes_infectious_low_fertility.description>该遗传病携带者的生育能力显著降低。</rjw_genes_infectious_low_fertility.description>
+<!--EN: infectious low fertility vulnerability-->
+<rjw_genes_infectious_low_fertility.label>传染性低生育力</rjw_genes_infectious_low_fertility.label>
+<!--EN: Carriers of this genetic disease need a lot more sex.-->
+<rjw_genes_infectious_major_increased_sex_need.description>该遗传病携带者会比常人需要多得多的性爱。</rjw_genes_infectious_major_increased_sex_need.description>
+<!--EN: major infectious increased sexneed-->
+<rjw_genes_infectious_major_increased_sex_need.label>传染性高性需求</rjw_genes_infectious_major_increased_sex_need.label>
   <!--EN: Carriers of this gene can enter a state of heat, resulting in drastically higher sexual activity.-->
   <rjw_genes_infectious_rut.description>该基因携带者可以进入发情状态，导致性活动急剧增加。</rjw_genes_infectious_rut.description>
   <!--EN: Rut-->
@@ -236,10 +236,10 @@
   <rjw_genes_lifeforce_drain.description>携带者每天因生物熵额外损失7.5点致育素。</rjw_genes_lifeforce_drain.description>
   <!--EN: fertilin drain-->
   <rjw_genes_lifeforce_drain.label>致育素损耗</rjw_genes_lifeforce_drain.label>
-  <!--EN: Carriers of this gene generate fertilin if nearby pawns are sexually satisfied. Be careful: Sexually frustrated pawns will make your empath loose fertilin!-->
-  <rjw_genes_lifeforce_empath.description>如果附近的角色性需求得到满足，该基因携带者会生成致育素。小心：性需求受挫的角色会使你的共情者流失致育素！</rjw_genes_lifeforce_empath.description>
-  <!--EN: empathic fertilin-->
-  <rjw_genes_lifeforce_empath.label>共情致育素</rjw_genes_lifeforce_empath.label>
+<!--EN: Carriers of this gene generate fertilin if nearby pawns are sexually satisfied. Be careful: Sexually frustrated pawns will make your empath loose fertilin!-->
+<rjw_genes_lifeforce_empath.description>如果附近的角色性需求得到满足，该基因携带者会生成致育素。小心：性需求受挫的角色会让这名共情者流失致育素！</rjw_genes_lifeforce_empath.description>
+<!--EN: empathic fertilin-->
+<rjw_genes_lifeforce_empath.label>共情者</rjw_genes_lifeforce_empath.label>
   <!--EN: Female carriers of this gene birth litters instead of just one baby, with a chance of having two to four babies per pregnancy.-->
   <rjw_genes_littered_births.description>携带此基因的女性小人一次会产下一窝后代，而不是单个婴儿；每次怀孕有几率产下 2 到 4 个婴儿。</rjw_genes_littered_births.description>
   <!--EN: littered births-->
@@ -252,10 +252,10 @@
   <rjw_genes_loose_female_genitalia.description>该基因携带者拥有宽松的阴道。（尺寸调整在20岁生日时进行）</rjw_genes_loose_female_genitalia.description>
   <!--EN: loose female genitalia-->
   <rjw_genes_loose_female_genitalia.label>宽松阴道</rjw_genes_loose_female_genitalia.label>
-  <!--EN: Carriers of this gene are more vulnerable, and a more attractive target for rape.-->
-  <rjw_genes_major_vulnerability.description>该基因携带者更加脆弱，是更具吸引力的强奸目标。</rjw_genes_major_vulnerability.description>
-  <!--EN: major vulnerability-->
-  <rjw_genes_major_vulnerability.label>主要易感性</rjw_genes_major_vulnerability.label>
+<!--EN: Carriers of this gene are more vulnerable, and a more attractive target for rape.-->
+<rjw_genes_major_vulnerability.description>该基因携带者明显更加脆弱，很容易成为强奸的优先目标。</rjw_genes_major_vulnerability.description>
+<!--EN: major vulnerability-->
+<rjw_genes_major_vulnerability.label>严重易受侵犯</rjw_genes_major_vulnerability.label>
   <!--EN: Carriers of this gene are only male.-->
   <rjw_genes_male_only.description>该基因携带者只为男性。</rjw_genes_male_only.description>
   <!--EN: male-->
@@ -272,18 +272,18 @@
   <rjw_genes_mechbreeder.description>该基因携带者能够毫发无损地产下机械体。</rjw_genes_mechbreeder.description>
   <!--EN: mechbreeder-->
   <rjw_genes_mechbreeder.label>机械体育种者</rjw_genes_mechbreeder.label>
-  <!--EN: Carriers of this gene are a bit more vulnerable, and a slightly more attractive target for rape.-->
-  <rjw_genes_minor_vulnerability.description>该基因携带者稍微更脆弱，是略微更具吸引力的强奸目标。</rjw_genes_minor_vulnerability.description>
-  <!--EN: minor vulnerability-->
-  <rjw_genes_minor_vulnerability.label>次要易感性</rjw_genes_minor_vulnerability.label>
-  <!--EN: Carriers of this gene produce a lot of sexual fluids.-->
-  <rjw_genes_much_fluid.description>该基因携带者产生大量体液。</rjw_genes_much_fluid.description>
-  <!--EN: much fluid-->
-  <rjw_genes_much_fluid.label>多体液</rjw_genes_much_fluid.label>
-  <!--EN: Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.-->
-  <rjw_genes_naked_prowess.description>在致育素的驱动下，此人的力量和韧性大幅提升。</rjw_genes_naked_prowess.description>
-  <!--EN: naked prowess-->
-  <rjw_genes_naked_prowess.label>裸身威能</rjw_genes_naked_prowess.label>
+<!--EN: Carriers of this gene are a bit more vulnerable, and a slightly more attractive target for rape.-->
+<rjw_genes_minor_vulnerability.description>该基因携带者会稍微更脆弱，更容易成为强奸目标。</rjw_genes_minor_vulnerability.description>
+<!--EN: minor vulnerability-->
+<rjw_genes_minor_vulnerability.label>轻微易受侵犯</rjw_genes_minor_vulnerability.label>
+<!--EN: Carriers of this gene produce a lot of sexual fluids.-->
+<rjw_genes_much_fluid.description>该基因携带者会分泌大量性爱体液。</rjw_genes_much_fluid.description>
+<!--EN: much fluid-->
+<rjw_genes_much_fluid.label>体液丰富</rjw_genes_much_fluid.label>
+<!--EN: Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.-->
+<rjw_genes_naked_prowess.description>携带此基因的小人在全裸时，可以暂时提升自身力量与抗性。</rjw_genes_naked_prowess.description>
+<!--EN: naked prowess-->
+<rjw_genes_naked_prowess.label>裸身威能</rjw_genes_naked_prowess.label>
   <!--EN: Carriers of this gene have no anus.-->
   <rjw_genes_no_anus.description>该基因携带者没有肛门。</rjw_genes_no_anus.description>
   <!--EN: no anus-->
@@ -312,10 +312,10 @@
   <rjw_genes_orgasm_rush.description>高潮时，该基因携带者获得活动力提升。（休息需求部分满足）</rjw_genes_orgasm_rush.description>
   <!--EN: orgasm rush-->
   <rjw_genes_orgasm_rush.label>高潮冲刺</rjw_genes_orgasm_rush.label>
-  <!--EN: Carriers of this gene have ovipositors similar to insects.-->
-  <rjw_genes_ovipositor_genitalia.description>该基因携带者拥有类似昆虫的产卵器。</rjw_genes_ovipositor_genitalia.description>
-  <!--EN: insect genitalia-->
-  <rjw_genes_ovipositor_genitalia.label>昆虫生殖器</rjw_genes_ovipositor_genitalia.label>
+<!--EN: Carriers of this gene have ovipositors similar to insects.-->
+<rjw_genes_ovipositor_genitalia.description>该基因携带者拥有类似虫族的产卵器。</rjw_genes_ovipositor_genitalia.description>
+<!--EN: insect genitalia-->
+<rjw_genes_ovipositor_genitalia.label>虫族生殖器</rjw_genes_ovipositor_genitalia.label>
   <!--EN: Carriers of this gene are able to briefly stun an enemy with a kiss.-->
   <rjw_genes_paralysingkiss.description>该基因携带者能够用一个吻短暂击晕敌人。</rjw_genes_paralysingkiss.description>
   <!--EN: paralysing kiss-->
@@ -373,10 +373,10 @@
   <rjw_genes_sexual_mytosis.description>该基因的携带者体内含有故障的再生型纳米机械（Archites），这些机械会随着连续的多次高潮变得愈发不稳定，最终在有丝分裂的过程中达到顶点。这会导致产生一个生理特征完全相同的副本小人，且双胞胎双方都会进入再生休眠状态。此外，该小人拥有多次高潮的能力：在不稳定性较高的状态下，高潮触发的速度会更快。</rjw_genes_sexual_mytosis.description>
   <!--EN: orgasmic mytosis-->
   <rjw_genes_sexual_mytosis.label>有丝分裂克隆</rjw_genes_sexual_mytosis.label>
-  <!--EN: Carriers of this genetic disease are dramatically more drawn to pawns with huge cocks.-->
-  <rjw_genes_size_blinded.description>该遗传病携带者会显著被拥有巨大阴茎的角色吸引。</rjw_genes_size_blinded.description>
-  <!--EN: size blinded-->
-  <rjw_genes_size_blinded.label>尺寸盲从</rjw_genes_size_blinded.label>
+<!--EN: Carriers of this genetic disease are dramatically more drawn to pawns with huge cocks.-->
+<rjw_genes_size_blinded.description>该遗传病携带者会被拥有巨大阴茎的角色强烈吸引，几乎被尺寸蒙蔽理智。</rjw_genes_size_blinded.description>
+<!--EN: size blinded-->
+<rjw_genes_size_blinded.label>尺寸迷恋</rjw_genes_size_blinded.label>
   <!--EN: Carriers of this gene have slime genitalia.-->
   <rjw_genes_slime_genitalia.description>该基因携带者拥有史莱姆型生殖器。</rjw_genes_slime_genitalia.description>
   <!--EN: slime genitalia-->
@@ -413,18 +413,18 @@
   <rjw_genes_twinkifier.description>携带此基因的小人会缓慢地将其男性性伴侣改造为具备生育能力的可爱男宠（Twink）。</rjw_genes_twinkifier.description>
   <!--EN: twinkifier-->
   <rjw_genes_twinkifier.label>男宠转化者</rjw_genes_twinkifier.label>
-  <!--EN: Carriers of this gene have udders and breasts.-->
-  <rjw_genes_udder.description>该基因携带者既有乳房又有牛乳状乳房。</rjw_genes_udder.description>
-  <!--EN: udder-->
-  <rjw_genes_udder.label>牛乳状乳房</rjw_genes_udder.label>
+<!--EN: Carriers of this gene have udders and breasts.-->
+<rjw_genes_udder.description>该基因携带者既有人形乳房，又在腹部长出类似奶牛的乳房。</rjw_genes_udder.description>
+<!--EN: udder-->
+<rjw_genes_udder.label>牛乳房</rjw_genes_udder.label>
   <!--EN: Carriers of this gene are unable to get mood or social penalties from being raped and they cannot be broken for a long period of time.-->
   <rjw_genes_unbreakable.description>该基因携带者不会因被强奸而受到心情或社交惩罚，并且长期不会崩溃。</rjw_genes_unbreakable.description>
   <!--EN: unbreakable-->
   <rjw_genes_unbreakable.label>坚不可摧</rjw_genes_unbreakable.label>
-  <!--EN: Carriers of this gene produce an excessive amount of sexual fluids.-->
-  <rjw_genes_very_much_fluid.description>该基因携带者产生过量体液。</rjw_genes_very_much_fluid.description>
-  <!--EN: very much fluid-->
-  <rjw_genes_very_much_fluid.label>极多体液</rjw_genes_very_much_fluid.label>
+<!--EN: Carriers of this gene produce an excessive amount of sexual fluids.-->
+<rjw_genes_very_much_fluid.description>该基因携带者会分泌极其夸张的性爱体液。</rjw_genes_very_much_fluid.description>
+<!--EN: very much fluid-->
+<rjw_genes_very_much_fluid.label>体液泛滥</rjw_genes_very_much_fluid.label>
   <!--EN: Carriers of this gene reverse the age of their sexual partners. (Partner stays adult)-->
   <rjw_genes_youth_fountain.description>该基因携带者逆转其性伴侣的年龄。（伴侣保持成年）</rjw_genes_youth_fountain.description>
   <!--EN: youth fountain-->
